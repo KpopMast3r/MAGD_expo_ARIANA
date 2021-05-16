@@ -1,0 +1,43 @@
+#back{
+  float: right;
+  width: 1400px;
+  height: 1050px;
+  margin-top: -925px;
+  margin-right: -260px;
+}
+
+#backd{
+  float: right;
+  width: 1100px;
+  height: 975px;
+  margin-top: -875px;
+  margin-right: -140px;
+}
+
+#barf{
+  float: right;
+  width: 875px;
+  height: 950px;
+  margin-top: -795px;
+  margin-right: -80px;
+}
+#TheHeader {
+text-align: center;
+font-style: oblique;
+background-color: white;
+font-family: "Dancing Script", sans-serif;
+}
+
+.text{
+  font-size: 25px;
+}
+
+p.fe{
+ float: center;
+}
+
+.black{
+  background-color: black;
+  color: white;
+}
+
